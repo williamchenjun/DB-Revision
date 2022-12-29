@@ -1,4 +1,6 @@
-# Database Mock Exam
+# Database Sample Questions
+
+> **Disclaimer**: The problems are taken from a mock exam provided by the course. I do not take credit for them.<br>**KCL Module Ref.**: 7CCSMDDW.
 
 **Q1**. Given the relation $R(A,B,C,D,E,F,G,H)$ and the set of functional dependencies
 ```math
