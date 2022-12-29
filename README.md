@@ -16,6 +16,8 @@ AF &\rightarrow BF \implies AF \rightarrow H \implies AF \rightarrow G.
 \end{align*}
 ```
 
+(The first step is given by the splitting rule. The second step is respectively given by the axiom of augmentation and transitivity).
+
 We are given the following database schema:
 
 - `employee(empid, lname, location, salary, manager)`
